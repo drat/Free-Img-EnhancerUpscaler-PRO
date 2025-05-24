@@ -1,0 +1,12 @@
+torch
+torchvision
+diffusers
+transformers
+accelerate
+mediapipe
+gradio
+spaces
+gfpgan
+git+https://github.com/XPixelGroup/BasicSR@master
+facexlib
+realesrgan

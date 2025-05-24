@@ -8,10 +8,11 @@
 ```
 
 > **Aplikasi Gradio berbasis AI** untuk Peningkatan Gambar, Pemotongan, Segmentasi, dan Upscaling Cerdas.
-
-#Demo 
-
 ---
+![Free-Img-EnhanceUpscaler-PRO-a-Hugging-Face-Space-by-Deddy-05-24-2025_07_29_AM](https://github.com/user-attachments/assets/469fb9a9-336e-43ad-a218-6419cefa6217)
+---
+# Demo di HuggingFace
+https://deddy-free-img-enhanceupscaler-pro.hf.space
 
 ## 📸 Tentang Proyek
 
